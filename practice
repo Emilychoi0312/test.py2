@@ -1,2 +1,3 @@
 +print("Hello, tueaday!")
 +("I'm on the training")
++name = input("이름을 입력하세요: 최수진")
